@@ -1,4 +1,6 @@
-#Takumi hello this is a comment from jeff
+#This is a nother comment  that i am pushing to you lets hope this oges to to the right palce 
+#This is a nother comment  that i am pushing to you lets hope this oges to to the right palce 
+#This is a nother comment  that i am pushing to you lets hope this oges to to the right palce 
 user=tshinagawa
 pass=2mecno7v2k
 export user pass
